@@ -44,6 +44,10 @@ Improvements that may be added to future versions of the SCoDA include:
 
 * adding a decentralized alternative to traditional arbitration-based dispute resolution for Material Adverse Exception Events and indemnification claims;
 
+* adding a court-litigation alternative for those who don't prefer confidential arbitration;
+
+* adding some recitals to contextualize why parties would defer to code;
+
 * adding blockchain-related evidentiary and signature provisions, such as a provision providing for the SCoDA to be hashed to the blockchain as part of the signature process; 
 
 * provision-by-provision commentary from the author and/or future contributors, explaining the particular drafting choices made in the model and referring to possible alternatives 
