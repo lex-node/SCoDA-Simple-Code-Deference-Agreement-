@@ -38,6 +38,8 @@ Among other lacunae in the contract, there is no ‘Exhibit A’ setting forth t
 
 Improvements that may be added to future versions of the SCoDA include: 
 
+* sprucing up the markdown file to mirror the word-formatted file;
+
 * general clean-up and drafting improvements;
 
 * adding a decentralized alternative to traditional arbitration-based dispute resolution for Material Adverse Exception Events and indemnification claims;
