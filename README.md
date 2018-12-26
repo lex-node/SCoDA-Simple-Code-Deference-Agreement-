@@ -14,7 +14,9 @@ The SCoDA embodies a “qualified code deference” (QDC) approach to smart cont
 
 * QDC does not provide that the results of operating code are binding in absolutely all cases.
 
-Rather, QDC contemplates that the SCoDA is designed to be a legally binding contract whereby the parties agree that, EXCEPT in certain narrow circumstances, they will DEFER to (i.e., refrain from disputing in a legal proceeding) the results of operation of a smart contract. While a detailed explanation of the motivations for, and pros and cons of, the QDC approach is pending, a cursory explanation of the approach can be found here: https://twitter.com/lex_node/status/1028727470210437120 and here: https://twitter.com/lex_node/status/1019819161298456577
+Rather, QDC contemplates that the SCoDA is designed to be a legally binding contract whereby the parties agree that, EXCEPT in certain narrow circumstances, they will DEFER to (i.e., refrain from disputing in a legal proceeding) the results of operation of a smart contract. While a detailed explanation of the motivations for, and pros and cons of, the QDC approach is pending, a cursory explanation of the approach can be found here: 
+https://twitter.com/lex_node/status/1028727470210437120 
+and here: https://twitter.com/lex_node/status/1019819161298456577
 
 The exceptional circumstances under which the parties are not required to defer to the smart contract are captured under the concept of a “Material Adverse Exception Event.” These circumstances are basically the blockchain equivalent of ‘force majeure’ events—e.g., a 51% attack that causes a double-spend somehow affecting the smart contract. Although, under such a narrow definition, Material Adverse Exception Events should be incredibly rare, the SCoDA provides a standstill provision and a set of negotiation and arbitration procedures designed to drive the parties toward a resolution of how to handle one if it occurs. Of course, parties in the wild may opt for an even narrower version, or a broader version, of “Material Adverse Exception Event,” depending on their particular preferences.
 
@@ -53,7 +55,9 @@ If you are an attorney, software developer, or both, your comments would be welc
 Gabriel Shapiro is a U.S.-based corporate law attorney at the firm DLx Law. More about him/by him may be found at the below links: 
 
 https://about.me/gabriel_shapiro/edit
+
 https://www.linkedin.com/in/gabriel-shapiro-29616651/
+
 https://twitter.com/lex_node
 
 
