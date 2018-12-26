@@ -56,7 +56,7 @@ If you are an attorney, software developer, or both, your comments would be welc
 
 Gabriel Shapiro is a U.S.-based corporate law attorney at the firm DLx Law. More about him/by him may be found at the below links: 
 
-https://about.me/gabriel_shapiro/edit
+https://about.me/gabriel_shapiro/
 
 https://www.linkedin.com/in/gabriel-shapiro-29616651/
 
