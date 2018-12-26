@@ -6,13 +6,13 @@ The SCoDA provides that, after the parties sign the SCoDA, they will deposit a c
 
 The SCoDA embodies a “qualified code deference” (QDC) approach to smart contracting. As compared to competing approaches to smart contracting (such as the ‘Ricardian’ approach or the unqualified ‘code is law’ approach): 
 
-*QDC does not try to describe or summarize a contractual arrangement the code is supposed to perform;
+* QDC does not try to describe or summarize a contractual arrangement the code is supposed to perform;
 
-*QDC does not try to make the code itself a written text intended to express a legal agreement; 
+* QDC does not try to make the code itself a written text intended to express a legal agreement; 
 
-*QDC does not try to make a ‘machine-readable’ version of a natural language contract; and 
+* QDC does not try to make a ‘machine-readable’ version of a natural language contract; and 
 
-*QDC does not provide that the results of operating code are binding in absolutely all cases.
+* QDC does not provide that the results of operating code are binding in absolutely all cases.
 
 Rather, QDC contemplates that the SCoDA is designed to be a legally binding contract whereby the parties agree that, EXCEPT in certain narrow circumstances, they will DEFER to (i.e., refrain from disputing in a legal proceeding) the results of operation of a smart contract. While a detailed explanation of the motivations for, and pros and cons of, the QDC approach is pending, a cursory explanation of the approach can be found here: https://twitter.com/lex_node/status/1028727470210437120 and here: https://twitter.com/lex_node/status/1019819161298456577
 
@@ -26,23 +26,23 @@ If any of the representations and warranties or covenants of a party is breached
 
 It must be emphasized that this is an ALPHA release of a MODEL form. Thus: 
 
-*it is very much a work in progress** 
+* it is very much a work in progress
 
-*it likely has various glitches, bugs and imperfections; and 
+* it likely has various glitches, bugs and imperfections; and 
 
-*even in its final version, it will not be intended to be a contract that actually can be signed-- ‘off-the-shelf,’ as it were-- by parties who wish to do a deal. 
+* even in its final version, it will not be intended to be a contract that actually can be signed-- ‘off-the-shelf,’ as it were-- by parties who wish to do a deal. 
 
 Among other lacunae in the contract, there is no ‘Exhibit A’ setting forth the arbitration procedures, since presumably these will vary quite a bit depending on the parties’ preferences. 
 
 Improvements that may be added to future versions of the SCoDA include: 
 
-*general clean-up and drafting improvements;
+* general clean-up and drafting improvements;
 
-*adding a decentralized alternative to traditional arbitration-based dispute resolution for Material Adverse Exception Events and indemnification claims;
+* adding a decentralized alternative to traditional arbitration-based dispute resolution for Material Adverse Exception Events and indemnification claims;
 
-*adding blockchain-related evidentiary and signature provisions, such as a provision providing for the SCoDA to be hashed to the blockchain as part of the signature process; 
+* adding blockchain-related evidentiary and signature provisions, such as a provision providing for the SCoDA to be hashed to the blockchain as part of the signature process; 
 
-*provision-by-provision commentary from the author and/or future contributors, explaining the particular drafting choices made in the model and referring to possible alternatives 
+* provision-by-provision commentary from the author and/or future contributors, explaining the particular drafting choices made in the model and referring to possible alternatives 
 
 ## Contributions Welcome
 
