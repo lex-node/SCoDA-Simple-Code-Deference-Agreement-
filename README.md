@@ -52,9 +52,12 @@ Improvements that may be added to future versions of the SCoDA include:
 
 * provision-by-provision commentary from the author and/or future contributors, explaining the particular drafting choices made in the model and referring to possible alternatives 
 
-## Contributions Welcome
+## Contributors / Contributions Welcome
 
 If you are an attorney, software developer, or both, your comments would be welcome. You can propose changes through GitHub or can contact me through other channels. A word version of the SCoDA can also be made available upon request for those who do not wish to comment through GitHub. 
+
+Many thanks to these contributors: 
+* Ross Campbell (https://about.me/r_ross_campbell)
 
 ## About the Author
 
