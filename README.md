@@ -38,7 +38,7 @@ Among other lacunae in the contract, there is no ‘Exhibit A’ setting forth t
 
 Improvements that may be added to future versions of the SCoDA include: 
 
-* sprucing up the markdown file to mirror the word-formatted file;
+* adding a hardfork-related exception to the definition of "Material Adverse Exception Event";
 
 * general clean-up and drafting improvements;
 
@@ -58,6 +58,7 @@ If you are an attorney, software developer, or both, your comments would be welc
 
 Many thanks to these contributors: 
 * Ross Campbell (https://about.me/r_ross_campbell)
+* Matthew Cantor (https://www.fenwick.com/professionals/Pages/matthewcantor.aspx, https://twitter.com/MattCantor)
 
 ## About the Author
 
