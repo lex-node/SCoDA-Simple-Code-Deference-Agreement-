@@ -1,5 +1,12 @@
+/*This is an alpha release of a potential model DAO Charter for DAOs wishing to function as unincorporated associations. Code deference exists along a spectrum, with one end being "code is law" and the other being "code is no substitute for law whatsoever." The code deference approach taken by this form may be characterized as "qualified code deference" and builds on the example set forth in the "Simple Code Deference Agreement." 
 
- # DAO CHARTER
+This document does not constitute legal, financial or other advice and is not intended to be relied upon or used by any person for any purpose, other than informational and educational purposes. No attorney-client relationship or privilege is intended to be created or implied. No representation or warranty is being made as to the quality or fitness for any purpose of this document. Furthermore, this document is not recommended for use, but only for research. 
+
+This document is currently copyright ZeroLaw LLc but will be made open-source after further refinement and clean-up. Please do not use or quote without permission.
+
+By reading, transmitting or copying this document or any portion thereof, you consent and agree to the foregoing terms.*/
+
+# DAO CHARTER
  
 ## FOR THE ___________ /*INSERT NAME OF DAO*/ DAO
 
