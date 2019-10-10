@@ -1,4 +1,10 @@
-/*This is an alpha release of a potential model DAO Charter for DAOs wishing to function as unincorporated associations. Code deference exists along a spectrum, with one end being "code is law" and the other being "code is no substitute for law whatsoever." The code deference approach taken by this form may be characterized as "qualified code deference" and builds on the example set forth in the "Simple Code Deference Agreement." 
+/*This is an alpha release of a potential model DAO Charter for DAOs wishing to function as unincorporated associations. 
+
+There are a large number of assumptions embedded in this document. Among the most important is that the DAO shares/membership interests are NOT securities. This model form would not be suitable for DAOs whose tokens/membership interests are securities. 
+
+Beacuse there is no limited liability vehicle (such as an LLC or corporation) contemplated for the DAO in this model form, to be quasi-safely used in practice, the approach would need to be implemented with various extrinsic safeguards, such as specific public disclaimers regarding the ability of DAO Members to bind other DAO Members, and specific contracting practices when DAO Members are contracting with third parties regarding use of DAO funds, etc. It would not be appropriate for all use cases. 
+
+Code deference exists along a spectrum, with one end being "code is law" and the other being "code is no substitute for law whatsoever." The code deference approach taken by this form may be characterized as "qualified code deference" and builds on the example set forth in the "Simple Code Deference Agreement." For more on qualified code deference & the rationale thereof, see here: https://www.youtube.com/watch?v=hzbMPLxiht4.
 
 This document does not constitute legal, financial or other advice and is not intended to be relied upon or used by any person for any purpose, other than informational and educational purposes. No attorney-client relationship or privilege is intended to be created or implied. No representation or warranty is being made as to the quality or fitness for any purpose of this document. Furthermore, this document is not recommended for use, but only for research. 
 
@@ -25,7 +31,7 @@ By reading, transmitting or copying this document or any portion thereof, you co
  The activities and purposes to be conducted or promoted by the DAO are described at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter (the "***Purposes***"). 
  
 
- The DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. 
+ The DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership. 
  
  The DAO Members shall utilize the Designated Smart Contract (a smart contract deployed to the Designated Blockchain at the Designated Blockchain Address) as the exclusive method of holding. allocating among the DAO Members and spending or otherwise distributing any Tokens that are DAO Property, of minting and issuing DAO Membership Tokens and holding and recording votes of the DAO Members. The DAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third Members.
   
@@ -35,10 +41,11 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
 Membership rights in the DAO shall be represented by Tokens (the "***DAO Membership Tokens***") minted and issued through the Designated Smart Contract. 
 
-DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Mem
-rs shall have the rights, powers and privileges set forth at  [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
+DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Memrs shall have the rights, powers and privileges set forth at [________]() 
 
- Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority or right on the part of a DAO Member to act as the agent or representative of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of any DAO Member.  
+/*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
+
+ Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority or right on the part of a DAO Member to act as the agent or representative of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of any DAO Member.  Without limiting the generality of the foregoing, no DAO Member shall be deemed the partner of any other DAO Member. 
  
 ###  IV. BINDING EFFECT OF THE DESIGNATED SMART CONTRACT
 
