@@ -1,4 +1,10 @@
-/*This is an alpha release of a potential model DAO Charter for DAOs wishing to function as unincorporated associations. 
+# DAO CHARTER
+ 
+## FOR THE ___________ /*INSERT NAME OF DAO*/ DAO
+
+
+---
+*IMPORTANT NOTE*: This is an alpha release of a potential model DAO Charter for DAOs wishing to function as unincorporated associations. 
 
 There are a large number of assumptions embedded in this document. Among the most important is that the DAO shares/membership interests are NOT securities. This model form would not be suitable for DAOs whose tokens/membership interests are securities. 
 
@@ -12,9 +18,7 @@ This document is currently copyright ZeroLaw LLC but will be made open-source af
 
 By reading, transmitting or copying this document or any portion thereof, you consent and agree to the foregoing terms.*/
 
-# DAO CHARTER
- 
-## FOR THE ___________ /*INSERT NAME OF DAO*/ DAO
+---
 
 ###  I. NATURE OF DAO CHARTER
 
