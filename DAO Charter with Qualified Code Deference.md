@@ -37,7 +37,7 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
  The DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership. 
  
- The DAO Members shall utilize the Designated Smart Contract (a smart contract deployed to the Designated Blockchain at the Designated Blockchain Address) as the exclusive method of holding. allocating among the DAO Members and spending or otherwise distributing any Tokens that are DAO Property, of minting and issuing DAO Membership Tokens and holding and recording votes of the DAO Members. The DAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third Members.
+ The DAO Members shall utilize the Designated Smart Contract (a smart contract deployed to the Designated Blockchain at the Designated Blockchain Address) as the exclusive method of holding, allocating among the DAO Members, and spending or otherwise distributing any Tokens that are DAO Property, of minting and issuing DAO Membership Tokens and holding and recording votes of the DAO Members. The DAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third Members.
   
  ###  III. DAO SHARES & MEMBERSHIP
  
@@ -45,7 +45,7 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
 Membership rights in the DAO shall be represented by Tokens (the "***DAO Membership Tokens***") minted and issued through the Designated Smart Contract. 
 
-DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Memrs shall have the rights, powers and privileges set forth at [________]() 
+DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Members shall have the rights, powers and privileges set forth at [________]() 
 
 /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
 
