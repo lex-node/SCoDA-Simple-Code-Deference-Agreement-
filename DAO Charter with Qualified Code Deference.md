@@ -46,8 +46,8 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
  (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Memrs shall have the rights, powers and privileges set forth at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
 
- (d) Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority or right on the part of a DAO Member to act as the agent or representative of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of any DAO Member.  Without limiting the generality of the foregoing, no DAO Member shall be deemed the partner of any other DAO Member. 
- 
+ (d) Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority, right or power on the part of a DAO Member to act as the agent, representative or attorney of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of the DAO or any DAO Member.  Without limiting the generality of the foregoing, no DAO Member shall be deemed the partner of the DAO or any other DAO Member. No DAO Member shall state, purport, imply, hold out or represent to any person that such DAO Member or any other DAO Member has any such authority, right or power.  
+  
 ###  IV. BINDING EFFECT OF THE DESIGNATED SMART CONTRACT
 
 (a) *General Binding Effect.*
