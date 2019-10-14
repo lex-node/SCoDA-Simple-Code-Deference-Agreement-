@@ -136,19 +136,19 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (k) “**Designated Smart Contract**” means the smart contract deployed at address [____________] /*INSERT REFERENCE TO ADDRESS OF DEPLOYED SMART CONTRACT*/ on the Designated Blockchain. 
 
-(m) “**Distributed DAO Property**” means any asset, right or property that was once DAO Property and has been distributed to a DAO Member.
+(l) “**Distributed DAO Property**” means any asset, right or property that was once DAO Property and has been distributed to a DAO Member.
 
-(n) “**Legal Order**” means any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.  
+(m) “**Legal Order**” means any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.  
 
-(o) “**Legal Proceeding**” means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel. 
+(n) “**Legal Proceeding**” means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel. 
 
-(p) “**Liability**” means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable..  
+(o) “**Liability**” means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable..  
 
-(q) “**Lien**” means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset. 
+(p) “**Lien**” means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset. 
 
-(r) “**Material Adverse Exception Event**” means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:  
+(q) “**Material Adverse Exception Event**” means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:  
 
-(s) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contract;  
+(i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contract;  
 
 (ii) the Designated Smart Contract having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contract or any other smart contract or oracle on which the Designated Smart Contract depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis;  
 
@@ -158,11 +158,11 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (v) the Designated Smart Contract, any of the DAO Members or the DAO Property is subject to a Legal Order that prohibits the Designated Smart Contract (or that, if the Designated Smart Contract were a Person, would prohibit the Designated Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute. 
 
-(t) “**Person**” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.  
+(r) “**Person**” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.  
 
-(u) “**Token**” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (i) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (ii) having Transfers of such digital unit recorded on the Designated Blockchain. 
+(s) “**Token**” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (i) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (ii) having Transfers of such digital unit recorded on the Designated Blockchain. 
 
-(v) “**Transfer**” of a Token to a given address (the “***Receiving Address***”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that: (i) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(A) provides for the reassociation of the Designated Token with the Receiving Address; and (B) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and (ii) such transaction has been Confirmed.  
+(t) “**Transfer**” of a Token to a given address (the “***Receiving Address***”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that: (i) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(A) provides for the reassociation of the Designated Token with the Receiving Address; and (B) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and (ii) such transaction has been Confirmed.  
 
 ### VII. Miscellaneous
 
