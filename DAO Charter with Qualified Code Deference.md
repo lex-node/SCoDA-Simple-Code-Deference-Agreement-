@@ -8,7 +8,7 @@
 
 There are a large number of assumptions embedded in this document. Among the most important is that the DAO shares/membership interests are NOT securities. This model form would not be suitable for DAOs whose tokens/membership interests are securities. 
 
-Beacuse there is no limited liability vehicle (such as an LLC or corporation) contemplated for the DAO in this model form, to be quasi-safely used in practice, the approach would need to be implemented with various extrinsic safeguards, such as specific public disclaimers regarding the ability of DAO Members to bind other DAO Members, and specific contracting practices when DAO Members are contracting with third parties regarding use of DAO funds, etc. It would not be appropriate for all use cases. 
+Because there is no limited liability vehicle (such as an LLC or corporation) contemplated for the DAO in this model form, to be quasi-safely used in practice, the approach would need to be implemented with various extrinsic safeguards, such as specific public disclaimers regarding the ability of DAO Members to bind other DAO Members, and specific contracting practices when DAO Members are contracting with third parties regarding use of DAO funds, etc. It would not be appropriate for all use cases. 
 
 Code deference exists along a spectrum, with one end being "code is law" and the other being "code is no substitute for law whatsoever." The code deference approach taken by this form may be characterized as "qualified code deference" and builds on the example set forth in the "Simple Code Deference Agreement." For more on qualified code deference & the rationale thereof, see here: https://www.youtube.com/watch?v=hzbMPLxiht4.
 
