@@ -28,15 +28,15 @@ By reading, transmitting or copying this document or any portion thereof, you co
   
 ###  II. NAME, PURPOSES AND STRUCTURE OF THE DAO
  
- The name of the DAO is ___________ /*INSERT NAME OF DAO*/.
+ (a) The name of the DAO is ___________ /*INSERT NAME OF DAO*/.
  
- (a) The DAO is a "decentralized autonomous organization"--i.e., an unincorporated association of individuals, entities, associations and/or other persons or groups of persons.
+ (b) The DAO is a "decentralized autonomous organization"--i.e., an unincorporated association of individuals, entities, associations and/or other persons or groups of persons.
  
- (b) The activities and purposes to be conducted or promoted by the DAO are described at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter (the "***Purposes***"). 
+ (c) The activities and purposes to be conducted or promoted by the DAO are described at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter (the "***Purposes***"). 
  
- (c) The DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership. 
+ (d) The DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership. 
  
- (d) The DAO Members shall utilize the Designated Smart Contract (a smart contract deployed to the Designated Blockchain at the Designated Blockchain Address) as the exclusive method of holding. allocating among the DAO Members and spending or otherwise distributing any Tokens that are DAO Property, of minting and issuing DAO Membership Tokens and holding and recording votes of the DAO Members. The DAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third Members.
+ (e) The DAO Members shall utilize the Designated Smart Contract (a smart contract deployed to the Designated Blockchain at the Designated Blockchain Address) as the exclusive method of holding. allocating among the DAO Members and spending or otherwise distributing any Tokens that are DAO Property, of minting and issuing DAO Membership Tokens and holding and recording votes of the DAO Members. The DAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third Members.
   
  ###  III. DAO SHARES & MEMBERSHIP
  
