@@ -47,6 +47,8 @@ By reading, transmitting or copying this document or any portion thereof, you co
  (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Memrs shall have the rights, powers and privileges set forth at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
 
  (d) Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority, right or power on the part of a DAO Member to act as the agent, representative or attorney of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of the DAO or any DAO Member.  Without limiting the generality of the foregoing, no DAO Member shall be deemed the partner of the DAO or any other DAO Member. No DAO Member shall state, purport, imply, hold out or represent to any person that such DAO Member or any other DAO Member has any such authority, right or power.  
+ 
+ (e) To the maximum extent permitted by applicable law, no DAO Member shall be (or shall be deemed to be) liable for any Liability of the DAO or any other DAO Member except to the extent of (without duplication) any DAO Property contributed by such DAO Member to the DAO or any DAO Distributions received by such DAO Member from the DAO. 
   
 ###  IV. BINDING EFFECT OF THE DESIGNATED SMART CONTRACT
 
@@ -140,11 +142,13 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (o) “**Legal Proceeding**” means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel. 
 
-(p) “**Lien**” means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset. 
+(p) “**Liability**” means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable..  
 
-(q) “**Material Adverse Exception Event**” means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:  
+(q) “**Lien**” means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset. 
 
-(i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contract;  
+(r) “**Material Adverse Exception Event**” means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:  
+
+(s) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contract;  
 
 (ii) the Designated Smart Contract having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contract or any other smart contract or oracle on which the Designated Smart Contract depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis;  
 
@@ -154,11 +158,11 @@ Each DAO Member (as the "***Representing DAO Member***") hereby represents and w
 
 (v) the Designated Smart Contract, any of the DAO Members or the DAO Property is subject to a Legal Order that prohibits the Designated Smart Contract (or that, if the Designated Smart Contract were a Person, would prohibit the Designated Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute. 
 
-(r) “**Person**” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.  
+(t) “**Person**” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.  
 
-(s) “**Token**” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (i) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (ii) having Transfers of such digital unit recorded on the Designated Blockchain. 
+(u) “**Token**” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (i) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (ii) having Transfers of such digital unit recorded on the Designated Blockchain. 
 
-(t) “**Transfer**” of a Token to a given address (the “***Receiving Address***”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that: (i) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(A) provides for the reassociation of the Designated Token with the Receiving Address; and (B) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and (ii) such transaction has been Confirmed.  
+(v) “**Transfer**” of a Token to a given address (the “***Receiving Address***”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that: (i) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(A) provides for the reassociation of the Designated Token with the Receiving Address; and (B) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and (ii) such transaction has been Confirmed.  
 
 ### VII. Miscellaneous
 
